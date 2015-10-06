@@ -252,6 +252,7 @@
   <project path="gdk" name="platform/gdk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="hardware/actions/audio" name="iBullRay/android_hardware_actions_audio" />
   <project path="hardware/actions/display" name="iBullRay/android_hardware_actions_display" />
+  <project path="hardware/actions/gpu" name="iBullRay/android_hardware_actions_gpu" />
   <project path="hardware/actions/hdmi" name="iBullRay/android_hardware_actions_hdmi" />
   <project path="hardware/actions/light" name="iBullRay/android_hardware_actions_light" />
   <project path="hardware/actions/sensor" name="iBullRay/android_hardware_actions_sensor" />
