@@ -390,6 +390,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="tools/build" name="platform/tools/build" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="tools/motodev" name="platform/tools/motodev" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
+  <project path="vendor/ainol/gs702a-common" name="iBullRay/android_vendor_ainol_gs702a-common" />
   <project path="vendor/ainol/mangov2" name="iBullRay/android_vendor_ainol_mangov2" />
   <project path="vendor/cm" name="iBullRay/android_vendor_cm" />
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />

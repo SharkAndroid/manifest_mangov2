@@ -10,7 +10,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 Then to sync and build:
 
     repo init -u git://github.com/iBullRay/manifest_mangov2.git -b cm-10.1
-    repo sync -j*(where * - number of streams per cores,e.g quad core - -j5)
+    repo sync -j*(where * - number of streams per cores,e.g quad core - -j4)
     sh vendor/cm/get-prebuilts
     source build/envsetup.sh
     lunch cm_mangov2-userdebug
